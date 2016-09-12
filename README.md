@@ -12,4 +12,4 @@ There are so many enemy ships and you the player need to shoot as much as you ca
 * Left click to shoot.
 
 #### License
-The software is released under the MIT License, see LICENSE.txt.
+The software is released under the MIT License.
